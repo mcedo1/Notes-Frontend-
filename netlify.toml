@@ -1,0 +1,2 @@
+[build]
+  command = "npm run build" # Postavite ovu naredbu prema vašim potrebama
